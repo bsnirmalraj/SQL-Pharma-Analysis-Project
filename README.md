@@ -8,7 +8,9 @@ Using SQL, I conducted a comprehensive analysis and successfully completed the p
 Project Details
 
 Internship: Psyliq
+
 Project Type: Data Analysis
+
 Tools Used: SQL
 
 Key Highlights
