@@ -1,6 +1,6 @@
 Pharma Data Analysis
 
-Overview: 
+Overview
 
 This project represents my work as an intern at Psyliq, where I had the opportunity to analyze a dataset related to the pharmaceutical industry. 
 Using SQL, I conducted a comprehensive analysis and successfully completed the project.
